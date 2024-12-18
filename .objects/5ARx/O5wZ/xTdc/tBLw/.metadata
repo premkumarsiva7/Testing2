@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Check if sign in was successful",
+  "Type": "Element",
+  "Id": "tBLwfki-jkCVxJcVrOu9BA",
+  "Reference": "fsiOXAOISE2Zq4V769O3JA/tBLwfki-jkCVxJcVrOu9BA",
+  "ParentRef": "fsiOXAOISE2Zq4V769O3JA/xTdcus0OS0mtU2bdNlk-ZQ",
+  "Created": "2024-12-17T00:19:10.5096526Z",
+  "Updated": "2024-12-17T00:19:10.5096526Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

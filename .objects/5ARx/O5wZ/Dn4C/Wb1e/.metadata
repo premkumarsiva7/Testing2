@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Type PDF file name",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "Wb1euDXKLkS1oSR3PgWR0w",
+  "Reference": "fsiOXAOISE2Zq4V769O3JA/Wb1euDXKLkS1oSR3PgWR0w",
+  "ParentRef": "fsiOXAOISE2Zq4V769O3JA/Dn4CBkHCKUSPKk2ITYywaA",
+  "Created": "2024-12-17T00:19:07.8047674Z",
+  "Updated": "2024-12-17T00:19:07.8047674Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

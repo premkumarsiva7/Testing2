@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Navigate to User Options and then Download Client and Support",
+  "Type": "Screen",
+  "Id": "Tx4yzA1qhUipGsErJt6lYg",
+  "Reference": "fsiOXAOISE2Zq4V769O3JA/Tx4yzA1qhUipGsErJt6lYg",
+  "ParentRef": "fsiOXAOISE2Zq4V769O3JA/O5wZO0JBGE6fiD49d2dSkA",
+  "Created": "2024-12-17T00:19:11.8264483Z",
+  "Updated": "2024-12-17T00:19:11.8264483Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
